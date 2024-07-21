@@ -1,0 +1,24 @@
+{
+  "name": "chatapplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.10.2",
+    "nodemon": "^3.1.4",
+    "path": "^0.12.7",
+    "sequelize": "^6.37.3",
+    "sequelizer": "^1.1.4",
+    "socket.io": "^4.7.5"
+  }
+}
